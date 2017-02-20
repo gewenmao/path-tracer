@@ -1,0 +1,28 @@
+{
+    "path": {
+        "name": "_path",
+        "type": "dir",
+        "paths": [{
+            "name": "index.html",
+            "type": "file"
+        },{
+            "name":"static", 
+            "type": "dir", 
+            "paths": [{
+                "name": "main.js",
+                "type": "file"
+            },{
+                "name": "head.css",
+                "type": "file"
+                
+            },{
+                "name": "body.css",
+                "type": "file"
+            },{
+                "name":"images", 
+                "type": "dir", 
+                "paths": []
+            }]
+        }]
+    }
+}

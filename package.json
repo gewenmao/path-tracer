@@ -1,0 +1,16 @@
+{
+  "name": "path-tracer",
+  "version": "1.0.0",
+  "description": "tools to trace path",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "gewenmao <gewenmao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
